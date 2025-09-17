@@ -2,6 +2,8 @@
 
 #### FEAT
 
+* be8af85 - feat: add a switch group with lamps (DaoChaShao, 2025-09-17)
+* 7f7b367 - feat: add a lamp function (DaoChaShao, 2025-09-17)
 * 25ff745 - feat: add a UI interface interaction with MATLAB code and Python code (DaoChaShao, 2025-09-17)
 * fadc95f - feat: add a python file with functions (DaoChaShao, 2025-09-17)
 * ae0ef3c - feat: build a UI interfact with list and label (DaoChaShao, 2025-09-17)
@@ -12,12 +14,20 @@
 * 5e9cfba - feat: add a readme file in English (DaoChaShao, 2025-09-17)
 * 8aea063 - feat: add ignore files (DaoChaShao, 2025-09-17)
 
+#### FIX
+
+* a262fcb - fix: fix an options list type (DaoChaShao, 2025-09-17)
+
 #### DOCS
 
+* 2272a09 - docs: update the readme files (DaoChaShao, 2025-09-17)
+* 0d06ba2 - docs: update the changelog (DaoChaShao, 2025-09-17)
 * 2160f36 - docs: update the changelog (DaoChaShao, 2025-09-17)
 * 97bf774 - docs: update the content of the readme file (DaoChaShao, 2025-09-17)
 
 #### OTHER
 
+* 4d45146 - update: add a new function about switch (DaoChaShao, 2025-09-17)
+* e990f2b - update: update the function (DaoChaShao, 2025-09-17)
 * 772b799 - Create LICENCE (DaoChaShao, 2025-09-17)
 
