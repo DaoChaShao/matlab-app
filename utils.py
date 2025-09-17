@@ -7,3 +7,7 @@ def greet():
 def temperature_getter():
     options: list[int] = [36, 37, 39]
     return choice(options)
+
+def switch_getter():
+    options: list[str] = ["On", "Off"]
+    return choice(options)
