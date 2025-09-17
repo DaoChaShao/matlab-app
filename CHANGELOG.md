@@ -2,6 +2,7 @@
 
 #### FEAT
 
+* 943c44c - feat: add a controller to display the chart (DaoChaShao, 2025-09-17)
 * be8af85 - feat: add a switch group with lamps (DaoChaShao, 2025-09-17)
 * 7f7b367 - feat: add a lamp function (DaoChaShao, 2025-09-17)
 * 25ff745 - feat: add a UI interface interaction with MATLAB code and Python code (DaoChaShao, 2025-09-17)
@@ -20,6 +21,7 @@
 
 #### DOCS
 
+* 2075e9f - docs: update the changelog (DaoChaShao, 2025-09-17)
 * 2272a09 - docs: update the readme files (DaoChaShao, 2025-09-17)
 * 0d06ba2 - docs: update the changelog (DaoChaShao, 2025-09-17)
 * 2160f36 - docs: update the changelog (DaoChaShao, 2025-09-17)
