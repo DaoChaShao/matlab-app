@@ -42,6 +42,6 @@ Enter your GitHub username and password, or use a Personal Access Token (PAT) fo
 3. To call a function defined in a Python file, use the syntax:  
    ``` matlab
    py.[module_name].[function_name]
-4. If you add **new** functions to the Python file, you must run the command `clear classes` to **clear the Python module that has been loaded**.
+4. If you add **new** functions to the Python file, you must restart you MATLAB application.
 5. If you do **NOT** run this command, MATLAB may throw **errors** when calling the updated functions.
 6. If you deleted the remote repository, you can run the command `!git remote -v` and `!git remote remove origin` to clear the local remote.
