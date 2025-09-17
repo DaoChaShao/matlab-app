@@ -2,6 +2,8 @@
 
 #### FEAT
 
+* 7204638 - feat: build an interaction for load image and convert it (DaoChaShao, 2025-09-17)
+* 1ed65ed - feat: add an image (DaoChaShao, 2025-09-17)
 * 0eb5ec5 - feat: add the data for anis controller, which is 07 (DaoChaShao, 2025-09-17)
 * 943c44c - feat: add a controller to display the chart (DaoChaShao, 2025-09-17)
 * be8af85 - feat: add a switch group with lamps (DaoChaShao, 2025-09-17)
@@ -30,6 +32,7 @@
 
 #### OTHER
 
+* 1a68407 - update: update the content of changelog (DaoChaShao, 2025-09-17)
 * b96a0d0 - update: update the content of changelog (DaoChaShao, 2025-09-17)
 * 4d45146 - update: add a new function about switch (DaoChaShao, 2025-09-17)
 * e990f2b - update: update the function (DaoChaShao, 2025-09-17)
