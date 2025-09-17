@@ -20,18 +20,20 @@ Start exploring and let's master MATLAB App design and development together!
 ---
 This application is licensed under the [BSD-3-Clause License](LICENSE). You can click the link to read the licence.
 
-**HOW TO GIT**
+**HOW TO USE GIT IN MATLAB**
 ---
-1. **Create a local repository**  
-Create a folder on your computer for your MATLAB project and be ready to initialise it as a Git repository.
-2. **Share to GitHub**  
-In MATLAB, go to the `Source Control` tab and click `Share to GitHub` to initialise. Follow the prompts to create a corresponding repository on GitHub.
+1. **Create a new directory**  
+Create a folder on your computer for your MATLAB project. This folder will serve as the root for your Git repository.
+2. **Initialize a local repository**  
+Run the command `repo = gitinit("repoName")` in MATLAB to initialize a local repository. You can check the repository status using `status(repo)`.
 3. **Add new files**  
-If you have new files in your project, click `Add to Source Control` to stage them for commit.
-4. **Commit changes**  
-Click Commit (or Submit) to save your changes locally with a commit message.
+For any new files in your project, click **Add to Source Control**. Then commit your changes using appropriate commit messages.
+4. **Share to GitHub**  
+In MATLAB, go to the **Source Control** tab and click **Share to GitHub**. Follow the prompts to create a corresponding repository on GitHub.
 5. **Push to GitHub**  
-Click Push to upload your local commits to the GitHub repository.
+Click **Push** to upload your local commits to the GitHub repository.
+6. **Authenticate**  
+Enter your GitHub username and password, or use a Personal Access Token (PAT) for authentication.
 
 **INTEGRATING PYTHON WITH MATLAB**
 ---
