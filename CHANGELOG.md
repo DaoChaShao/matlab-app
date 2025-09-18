@@ -2,6 +2,7 @@
 
 #### FEAT
 
+* 5ded381 - feat: add an interaction with slider (DaoChaShao, 2025-09-18)
 * 8041771 - feat: add a knob interaction with real-time changing (DaoChaShao, 2025-09-18)
 * 1899269 - feat: add a meter interaction (DaoChaShao, 2025-09-18)
 * 7204638 - feat: build an interaction for load image and convert it (DaoChaShao, 2025-09-17)
@@ -27,6 +28,7 @@
 
 #### DOCS
 
+* f64f327 - docs: update the changelog file (DaoChaShao, 2025-09-18)
 * 2075e9f - docs: update the changelog (DaoChaShao, 2025-09-17)
 * 2272a09 - docs: update the readme files (DaoChaShao, 2025-09-17)
 * 0d06ba2 - docs: update the changelog (DaoChaShao, 2025-09-17)
