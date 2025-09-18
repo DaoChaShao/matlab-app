@@ -2,6 +2,13 @@
 
 #### FEAT
 
+* c816542 - feat: add a test data (DaoChaShao, 2025-09-18)
+* be0f283 - feat: add an interface with drop-down box and anis area (DaoChaShao, 2025-09-18)
+* 2e4a6b0 - feat: add an interaction with stepping switch and enums (DaoChaShao, 2025-09-18)
+* a5c1c02 - feat: add an enum with yes and no (DaoChaShao, 2025-09-18)
+* 4137682 - feat: add an enum with off and on (DaoChaShao, 2025-09-18)
+* 86be1db - feat: add an enum with different light colours (DaoChaShao, 2025-09-18)
+* 7e86de0 - feat: add an enum with different level (DaoChaShao, 2025-09-18)
 * 5ded381 - feat: add an interaction with slider (DaoChaShao, 2025-09-18)
 * 8041771 - feat: add a knob interaction with real-time changing (DaoChaShao, 2025-09-18)
 * 1899269 - feat: add a meter interaction (DaoChaShao, 2025-09-18)
@@ -28,6 +35,7 @@
 
 #### DOCS
 
+* 620fc01 - docs: update the changelog file (DaoChaShao, 2025-09-18)
 * f64f327 - docs: update the changelog file (DaoChaShao, 2025-09-18)
 * 2075e9f - docs: update the changelog (DaoChaShao, 2025-09-17)
 * 2272a09 - docs: update the readme files (DaoChaShao, 2025-09-17)
