@@ -22,6 +22,7 @@
 
 #### FIX
 
+* 931dfe8 - fix: update the function (DaoChaShao, 2025-09-18)
 * a262fcb - fix: fix an options list type (DaoChaShao, 2025-09-17)
 
 #### DOCS
@@ -34,6 +35,7 @@
 
 #### OTHER
 
+* 9ca7ffc - update: update the changelog file (DaoChaShao, 2025-09-18)
 * c083cb1 - update: update the changelog file (DaoChaShao, 2025-09-17)
 * 1a68407 - update: update the content of changelog (DaoChaShao, 2025-09-17)
 * b96a0d0 - update: update the content of changelog (DaoChaShao, 2025-09-17)
