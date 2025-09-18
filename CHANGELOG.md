@@ -2,6 +2,8 @@
 
 #### FEAT
 
+* 8041771 - feat: add a knob interaction with real-time changing (DaoChaShao, 2025-09-18)
+* 1899269 - feat: add a meter interaction (DaoChaShao, 2025-09-18)
 * 7204638 - feat: build an interaction for load image and convert it (DaoChaShao, 2025-09-17)
 * 1ed65ed - feat: add an image (DaoChaShao, 2025-09-17)
 * 0eb5ec5 - feat: add the data for anis controller, which is 07 (DaoChaShao, 2025-09-17)
@@ -32,6 +34,7 @@
 
 #### OTHER
 
+* c083cb1 - update: update the changelog file (DaoChaShao, 2025-09-17)
 * 1a68407 - update: update the content of changelog (DaoChaShao, 2025-09-17)
 * b96a0d0 - update: update the content of changelog (DaoChaShao, 2025-09-17)
 * 4d45146 - update: add a new function about switch (DaoChaShao, 2025-09-17)
